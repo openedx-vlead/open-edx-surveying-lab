@@ -1,0 +1,178 @@
+<problem display_name="Dropdown" markdown="&gt;&gt;Q1. The purpose of talking levels on each side of a main line at right angles to that line in order to determine a vertical cross-section of the surface of the ground, is known as&lt;&lt;&#10;( ) Differential levelling&#10;( ) Profile levelling&#10;(x) Cross-section&#10;( ) Reciprocal levelling&#10;( ) Precise levelling&#9;&#10;&#10;&gt;&gt;Q2. A method of levelling in which the difference in elevation between two points is accurately determined by two sets of reciprocal observations when it is not possible to set up the level between the two points is known as&lt;&lt;&#10;( ) Differential levelling&#10;( ) Profile levelling&#10;( ) Cross-section&#10;(x) Reciprocal levelling&#10;( ) Precise levelling&#9;&#10;&#10;&gt;&gt;Q4. A survey conducted along a narrow strip of territory for the location, design and construction of a canal, is known as&lt;&lt;&#10;() Hydraulic survey&#9;&#10;() Hydrographic survey&#10;() Topographic survey&#10;() Curve survey&#10;(x) Route survey&#10;&#10;&gt;&gt;Q5. The angle of field of the telescope&lt;&lt;&#10;( ) increases as the magnifying power increase&#10;( ) increases as the distance between eye piece and object increases&#10;(x) increases as the size of the eye piece increases&#10;( ) depends in the size of the object glas&#10;&#10;&gt;&gt;Q6. A fixed point of reference of known elevation is known as&lt;&lt;&#10;(x) bench mark&#10;( )datum&#10;( ) change point&#9;&#10;( ) station point&#10;&#10;&gt;&gt;Q7. 'Cross-sectioning' and 'longitudinal sectioning' is usually involved in&lt;&lt;&#10;( ) Check levelling&#10;( ) Differential levelling&#10;( ) Simple levelling&#9;&#10;(x) Profile leveling&#10;&#10;&gt;&gt;Q8. Bench mark is established by&lt;&lt;&#10;( ) spirit levelling&#10;( ) hypsometry&#10;(x) trigonometrical levelling&#10;( ) barometric levelling&#10;&#10;&gt;&gt;Q9. The rise and fall method of reduction of levels provides a check&lt;&lt;&#10;(x) back sights only&#10;( ) fore sights only&#10;( ) intermediate sights only&#10;( ) all the sights&#10;&#10;&gt;&gt;Q10. The method of line of collimation of reduction of levels does not provide a check&lt;&lt;&#10;(x) on intermediate sights&#10;( ) on fore sights&#10;( ) on back sights&#10;( ) on reduced levels of the points&#10;&#10;&gt;&gt;Q11. During levelling if back sight is more than foresight, then foresight, then&lt;&lt;&#10;&#10;(x) forward staff is lower than back staff point&#10;( ) back staff point is lower than forward staff point&#10;( ) difference in level cannot be ascertained&#10;( ) none of the above is correct&#10;&#10;&gt;&gt;Q12. The back staff reading on B.M. of reduced level 500.000 m is 2.685 m and the fore sight reading on B is 1.345 m, the reduced level of B, is&lt;&lt;&#10;( ) 502.685 m&#10;( ) 501.345 m&#10;(x) 501.340 m&#10;( ) 504.030 m&#10;( ) 502.585 m&#10;&#10;&gt;&gt;Q13. While viewing through a level telescope and moving the eye slightly, a relative movement occurs between the image of the levelling staff and the cross hairs. The instrument is&lt;&lt;&#10;( ) correctly focused&#10;( ) not correctly focused&#10;( ) said to have parallax&#10;(x) free from parallax&#10;&#10;&gt;&gt;Q14. For the execution of highway (or railway) projects&lt;&lt;&#10;( ) longitudinal sections are required&#10;( ) cross sections are required&#10;( ) both longitudinal and cross sections are required&#10;(x) none of the above&#10;&#10;&gt;&gt;Q15. Pick up the correct statement from the following&lt;&lt;&#10;( ) A level surface is perpendicular at all points to the direction of gravity&#10;( ) A level line lies in a level surface&#10;( ) A horizontal plane is normal to the direction of gravity at only one point&#10;( ) A horizontal line is tangential to the level surface&#10;(x) All the above&#10;&#10;&gt;&gt;Q16. The first staff reading after the level has been moved to a new position is&lt;&lt;&#10;( ) Foresight&#10;( ) intermediate sight&#10;( ) back sight&#10;(x) any sight&#10;&#10;&gt;&gt;Q17. In case of reduction of levels by heights of instrument method&lt;&lt;&#10;(x) B.S. - F.S. = Difference in R.L. of the first station and last station&#10;( ) (R.L. + I + F.S) – first R.L.= (H.I.+NO. Of R.L.s.)&#10;( ) both (a) and (b)&#10;( ) neither (a) nor (b)&#10;&#10;Q18. Removal of parallex, may be achieved by&#10;( ) refocusing the objective&#10;(x) refocussing the eye – piece&#10;( ) refocussing the objective and the eye- piece&#10;( ) none of the above&#10;&#10;">
+<p>Q1. The purpose of talking levels on each side of a main line at right angles to that line in order to determine a vertical cross-section of the surface of the ground, is known as</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q1. The purpose of talking levels on each side of a main line at right angles to that line in order to determine a vertical cross-section of the surface of the ground, is known as" type="MultipleChoice">
+    <choice correct="false">Differential levelling</choice>
+    <choice correct="false">Profile levelling</choice>
+    <choice correct="true">Cross-section</choice>
+    <choice correct="false">Reciprocal levelling</choice>
+    <choice correct="false">Precise levelling</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q2. A method of levelling in which the difference in elevation between two points is accurately determined by two sets of reciprocal observations when it is not possible to set up the level between the two points is known as</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q2. A method of levelling in which the difference in elevation between two points is accurately determined by two sets of reciprocal observations when it is not possible to set up the level between the two points is known as" type="MultipleChoice">
+    <choice correct="false">Differential levelling</choice>
+    <choice correct="false">Profile levelling</choice>
+    <choice correct="false">Cross-section</choice>
+    <choice correct="true">Reciprocal levelling</choice>
+    <choice correct="false">Precise levelling</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q4. A survey conducted along a narrow strip of territory for the location, design and construction of a canal, is known as</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q4. A survey conducted along a narrow strip of territory for the location, design and construction of a canal, is known as" type="MultipleChoice">
+    <choice correct="false">Hydraulic survey</choice>
+    <choice correct="false">Hydrographic survey</choice>
+    <choice correct="false">Topographic survey</choice>
+    <choice correct="false">Curve survey</choice>
+    <choice correct="true">Route survey</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q5. The angle of field of the telescope</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q5. The angle of field of the telescope" type="MultipleChoice">
+    <choice correct="false">increases as the magnifying power increase</choice>
+    <choice correct="false">increases as the distance between eye piece and object increases</choice>
+    <choice correct="true">increases as the size of the eye piece increases</choice>
+    <choice correct="false">depends in the size of the object glas</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q6. A fixed point of reference of known elevation is known as</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q6. A fixed point of reference of known elevation is known as" type="MultipleChoice">
+    <choice correct="true">bench mark</choice>
+    <choice correct="false">datum</choice>
+    <choice correct="false">change point</choice>
+    <choice correct="false">station point</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q7. 'Cross-sectioning' and 'longitudinal sectioning' is usually involved in</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q7. 'Cross-sectioning' and 'longitudinal sectioning' is usually involved in" type="MultipleChoice">
+    <choice correct="false">Check levelling</choice>
+    <choice correct="false">Differential levelling</choice>
+    <choice correct="false">Simple levelling</choice>
+    <choice correct="true">Profile leveling</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q8. Bench mark is established by</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q8. Bench mark is established by" type="MultipleChoice">
+    <choice correct="false">spirit levelling</choice>
+    <choice correct="false">hypsometry</choice>
+    <choice correct="true">trigonometrical levelling</choice>
+    <choice correct="false">barometric levelling</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q9. The rise and fall method of reduction of levels provides a check</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q9. The rise and fall method of reduction of levels provides a check" type="MultipleChoice">
+    <choice correct="true">back sights only</choice>
+    <choice correct="false">fore sights only</choice>
+    <choice correct="false">intermediate sights only</choice>
+    <choice correct="false">all the sights</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q10. The method of line of collimation of reduction of levels does not provide a check</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q10. The method of line of collimation of reduction of levels does not provide a check" type="MultipleChoice">
+    <choice correct="true">on intermediate sights</choice>
+    <choice correct="false">on fore sights</choice>
+    <choice correct="false">on back sights</choice>
+    <choice correct="false">on reduced levels of the points</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q11. During levelling if back sight is more than foresight, then foresight, then</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q11. During levelling if back sight is more than foresight, then foresight, then" type="MultipleChoice">
+    <choice correct="true">forward staff is lower than back staff point</choice>
+    <choice correct="false">back staff point is lower than forward staff point</choice>
+    <choice correct="false">difference in level cannot be ascertained</choice>
+    <choice correct="false">none of the above is correct</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q12. The back staff reading on B.M. of reduced level 500.000 m is 2.685 m and the fore sight reading on B is 1.345 m, the reduced level of B, is</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q12. The back staff reading on B.M. of reduced level 500.000 m is 2.685 m and the fore sight reading on B is 1.345 m, the reduced level of B, is" type="MultipleChoice">
+    <choice correct="false">502.685 m</choice>
+    <choice correct="false">501.345 m</choice>
+    <choice correct="true">501.340 m</choice>
+    <choice correct="false">504.030 m</choice>
+    <choice correct="false">502.585 m</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q13. While viewing through a level telescope and moving the eye slightly, a relative movement occurs between the image of the levelling staff and the cross hairs. The instrument is</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q13. While viewing through a level telescope and moving the eye slightly, a relative movement occurs between the image of the levelling staff and the cross hairs. The instrument is" type="MultipleChoice">
+    <choice correct="false">correctly focused</choice>
+    <choice correct="false">not correctly focused</choice>
+    <choice correct="false">said to have parallax</choice>
+    <choice correct="true">free from parallax</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q14. For the execution of highway (or railway) projects</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q14. For the execution of highway (or railway) projects" type="MultipleChoice">
+    <choice correct="false">longitudinal sections are required</choice>
+    <choice correct="false">cross sections are required</choice>
+    <choice correct="false">both longitudinal and cross sections are required</choice>
+    <choice correct="true">none of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q15. Pick up the correct statement from the following</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q15. Pick up the correct statement from the following" type="MultipleChoice">
+    <choice correct="false">A level surface is perpendicular at all points to the direction of gravity</choice>
+    <choice correct="false">A level line lies in a level surface</choice>
+    <choice correct="false">A horizontal plane is normal to the direction of gravity at only one point</choice>
+    <choice correct="false">A horizontal line is tangential to the level surface</choice>
+    <choice correct="true">All the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q16. The first staff reading after the level has been moved to a new position is</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q16. The first staff reading after the level has been moved to a new position is" type="MultipleChoice">
+    <choice correct="false">Foresight</choice>
+    <choice correct="false">intermediate sight</choice>
+    <choice correct="false">back sight</choice>
+    <choice correct="true">any sight</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q17. In case of reduction of levels by heights of instrument method</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q17. In case of reduction of levels by heights of instrument method" type="MultipleChoice">
+    <choice correct="true">B.S. - F.S. = Difference in R.L. of the first station and last station</choice>
+    <choice correct="false">(R.L. + I + F.S) – first R.L.= (H.I.+NO. Of R.L.s.)</choice>
+    <choice correct="false">both (a) and (b)</choice>
+    <choice correct="false">neither (a) nor (b)</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q18. Removal of parallex, may be achieved by</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">refocusing the objective</choice>
+    <choice correct="true">refocussing the eye – piece</choice>
+    <choice correct="false">refocussing the objective and the eye- piece</choice>
+    <choice correct="false">none of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
