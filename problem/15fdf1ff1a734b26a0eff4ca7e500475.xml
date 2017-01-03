@@ -1,0 +1,153 @@
+<problem display_name="Multiple Choice" markdown="Quizzes&#10;Q1. The survey which are made to fix the property lines, the calculation of the land area or the transfer of land property from one owner to another is known as&#10;( )&#9;&#9;Cadestral survey&#9;&#10;( )&#9;&#9;Geodetic survey&#10;( )&#9;&#9;Municipality survey&#9;&#10;(x)&#9;&#9;Property survey&#10;Q2. A survey which consists of horizontal and vertical and vertical location of certain points by linear and angular measurements and is made to determine the natural features of a country, is known as&#10;( )&#9;&#9;Geodetic survey&#9;&#10;( )&#9;&#9;Cadestral survey&#10;( )&#9;&#9;City survey&#9;&#10;(x)&#9;&#9;Topographical survey&#10;( )&#9;&#9;Hydrographical survey&#9; &#9; &#9; &#10;Q3. The survey which are made to fix the property lines, the calculation of land area or the transfer of land property from one owner to another is known as&#10;(x)&#9;&#9;Cadestral Surveying&#9;&#10;( )&#9;&#9;Geodetic survey&#10;( )&#9;&#9;Municipality survey&#9;&#10;( )&#9;&#9;Urban survey&#10;Q4. The size of drawing board used in the Johnsons table is&#10;(x)&#9;&#9;45 × 60 cm or 60 × 75 cm&#9;&#10;( )     75 × 100 cm or 80 × 100 cm&#10;( )&#9;&#9;80 × 120 cm or 100 × 120 cm&#9;&#10;( )&#9;&#9;120 cm 150 cm&#10;( )&#9;&#9;125 cm 175 cm&#9; &#9; &#9; &#10;Q5. In plane table survey the method used for locating details is&#10;( )&#9;&#9;Traversing&#9;&#10;( )&#9;&#9;Resection&#10;( )&#9;&#9;Radiation&#9;&#10;( )&#9;&#9;Intersection&#10;(x)&#9;&#9;(A) or (B) above&#9; &#9; &#9; &#10;Q6. The instrument which is used in plane tabling for obtaining horizontal and vertical distances directly without resolving is known as&#10;( )&#9;&#9;Alidade&#9;&#10;( )&#9;&#9;Plane alidade&#10;(x)&#9;&#9;Telescope alidade&#9;&#10;( )&#9;&#9;Clinometer&#10;Q7. Which one of the following is known as instrumental error in plane table surveying?&#10;( )&#9;&#9;Non-horizontality of board&#9;&#10;( )&#9;&#9;Defective orientation&#10;( )&#9;&#9;Defective orientation&#9;&#10;( )&#9;&#9;Inaccurate centring&#10;(x)&#9;&#9;None of the above&#9; &#9; &#9; &#10;Q8. In plane table survey, which is the error due to manipulation and sighting&#10;( )&#9;&#9;Non-horizontally of broad&#9;&#10;( )&#9;&#9;Defective sighting&#10;( )&#9;&#9;Movement of board between sight&#9;&#10;( )&#9;&#9;Defective orientation&#10;(x)&#9;&#9;All of the above&#9; &#9; &#9; &#10;Q9. The advantage of plane table surveying is&#10;( )&#9;&#9;Useful in magnetic areas where compass may not be used&#9;&#10;( )&#9;&#9;Suitable for small scale maps particularly&#10;( )&#9;&#9;Not much of skill is required in the work&#9;&#10;( )&#9;&#9;Contour and irregular objects can be represented accurately&#10;(x)&#9;&#9;All of the above&#9; &#9; &#9; &#10;Q10. The disadvantage of plane table surveying is that&#10;( )&#9;&#9;It is not suitable for very accurate work&#9;&#10;( )&#9;&#9;It is essentially a tropical instrument&#10;( )&#9;&#9;It is most inconvenient in rainy season and in wet climate&#9;&#10;( )&#9;&#9;Due to heaviness, it is inconvenient to transport&#10;(x)&#9;&#9;All of the above&#9; &#9; &#9; &#10;Q11. The process of determining the position both in plan and elevation of the natural and artificial feature of a locality for the purpose of delineating them, is known as&#10;(x)&#9;&#9;Topographic survey&#9;&#10;( )&#9;&#9;Contour survey&#10;( )     Plan elevation survey&#9;&#10;( )&#9;&#9;Isometric survey&#10;( )&#9;&#9;Astronomical survey&#9; &#9; &#9; &#10;Q12. The instrument most suitable for plane table surveying when contouring is to be done simultaneously, will be&#10;( )&#9;&#9;Abney's hand level&#9;&#10;( )&#9;&#9;Sextant&#10;( )&#9;&#9;Planimeter&#9;&#10;(x)&#9;&#9;Indian tangent clinometer&#10;( )&#9;&#9;Optical theodolite&#9; &#9; &#9; &#10;Q13. Which of the following survey is preferred to determine the natural feature such as valleys, river, lakes, etc.&#10;( )&#9;&#9;Location surveying&#9;&#10;(x)&#9;&#9;Topographical surveying&#10;( )&#9;&#9;Cadastral surveying&#9;&#10;( )&#9;&#9;Reconnaissance surveying&#10;Q14. Which of the following is the largest size of drawing sheet?&#10;( )&#9;&#9;A 1&#9;&#10;( )&#9;&#9;A 2&#10;(x)&#9;&#9;A 4&#9;&#10;( )&#9;&#9;A 5">
+<p>Quizzes</p>
+<p>Q1. The survey which are made to fix the property lines, the calculation of the land area or the transfer of land property from one owner to another is known as</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Cadestral survey</choice>
+    <choice correct="false">Geodetic survey</choice>
+    <choice correct="false">Municipality survey</choice>
+    <choice correct="true">Property survey</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q2. A survey which consists of horizontal and vertical and vertical location of certain points by linear and angular measurements and is made to determine the natural features of a country, is known as</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Geodetic survey</choice>
+    <choice correct="false">Cadestral survey</choice>
+    <choice correct="false">City survey</choice>
+    <choice correct="true">Topographical survey</choice>
+    <choice correct="false">Hydrographical survey</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q3. The survey which are made to fix the property lines, the calculation of land area or the transfer of land property from one owner to another is known as</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Cadestral Surveying</choice>
+    <choice correct="false">Geodetic survey</choice>
+    <choice correct="false">Municipality survey</choice>
+    <choice correct="false">Urban survey</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q4. The size of drawing board used in the Johnsons table is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">45 × 60 cm or 60 × 75 cm</choice>
+    <choice correct="false">75 × 100 cm or 80 × 100 cm</choice>
+    <choice correct="false">80 × 120 cm or 100 × 120 cm</choice>
+    <choice correct="false">120 cm 150 cm</choice>
+    <choice correct="false">125 cm 175 cm</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q5. In plane table survey the method used for locating details is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Traversing</choice>
+    <choice correct="false">Resection</choice>
+    <choice correct="false">Radiation</choice>
+    <choice correct="false">Intersection</choice>
+    <choice correct="true">(A) or (B) above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q6. The instrument which is used in plane tabling for obtaining horizontal and vertical distances directly without resolving is known as</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Alidade</choice>
+    <choice correct="false">Plane alidade</choice>
+    <choice correct="true">Telescope alidade</choice>
+    <choice correct="false">Clinometer</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q7. Which one of the following is known as instrumental error in plane table surveying?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Non-horizontality of board</choice>
+    <choice correct="false">Defective orientation</choice>
+    <choice correct="false">Defective orientation</choice>
+    <choice correct="false">Inaccurate centring</choice>
+    <choice correct="true">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q8. In plane table survey, which is the error due to manipulation and sighting</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Non-horizontally of broad</choice>
+    <choice correct="false">Defective sighting</choice>
+    <choice correct="false">Movement of board between sight</choice>
+    <choice correct="false">Defective orientation</choice>
+    <choice correct="true">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q9. The advantage of plane table surveying is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Useful in magnetic areas where compass may not be used</choice>
+    <choice correct="false">Suitable for small scale maps particularly</choice>
+    <choice correct="false">Not much of skill is required in the work</choice>
+    <choice correct="false">Contour and irregular objects can be represented accurately</choice>
+    <choice correct="true">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q10. The disadvantage of plane table surveying is that</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">It is not suitable for very accurate work</choice>
+    <choice correct="false">It is essentially a tropical instrument</choice>
+    <choice correct="false">It is most inconvenient in rainy season and in wet climate</choice>
+    <choice correct="false">Due to heaviness, it is inconvenient to transport</choice>
+    <choice correct="true">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q11. The process of determining the position both in plan and elevation of the natural and artificial feature of a locality for the purpose of delineating them, is known as</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Topographic survey</choice>
+    <choice correct="false">Contour survey</choice>
+    <choice correct="false">Plan elevation survey</choice>
+    <choice correct="false">Isometric survey</choice>
+    <choice correct="false">Astronomical survey</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q12. The instrument most suitable for plane table surveying when contouring is to be done simultaneously, will be</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Abney's hand level</choice>
+    <choice correct="false">Sextant</choice>
+    <choice correct="false">Planimeter</choice>
+    <choice correct="true">Indian tangent clinometer</choice>
+    <choice correct="false">Optical theodolite</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q13. Which of the following survey is preferred to determine the natural feature such as valleys, river, lakes, etc.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Location surveying</choice>
+    <choice correct="true">Topographical surveying</choice>
+    <choice correct="false">Cadastral surveying</choice>
+    <choice correct="false">Reconnaissance surveying</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q14. Which of the following is the largest size of drawing sheet?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">A 1</choice>
+    <choice correct="false">A 2</choice>
+    <choice correct="true">A 4</choice>
+    <choice correct="false">A 5</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

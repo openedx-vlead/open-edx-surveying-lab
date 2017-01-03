@@ -1,0 +1,119 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Q1. The accuracy depends upon?&lt;&lt;&#10;( ) Precise instruments&#10;( ) Precise methods&#10;( ) Good planning&#10;(x) All of the above&#10;( ) None of the above&#10;&#10;&gt;&gt;Q2. In a 5 m telescopic staff, the length of lower box is&lt;&lt;&#10;( ) 1 meter&#10;( ) 1.5 meter&#10;( ) 1.73 meter&#10;( ) 1.8 meter&#10;(x) 2.0 meter&#10;&#10;&gt;&gt;Q3. The cross hair is made of&lt;&lt;&#10;( ) Threads from the cocoon of the brown spider&#10;( ) Fine platinum wire&#10;( ) Filaments of silk&#10;( ) Etching on glass&#10;(x) Any of above&#10;&#10;&gt;&gt;Q4. The magnification of a telescope depends upon&lt;&lt;&#10;( ) Focal length of objective lens&#10;( ) Focal length of eye-piece&#10;(x) Ratio of fical length of objective lens/focal length of eye piece&#10;( ) Sum of focal length of objective lens and focal length of eye piece&#10;( ) (1/focal length of objective lens)+(1/focal length of eye piece)&#10;&#10;&gt;&gt;Q5. The cross-hair in a telescope are fitted&lt;&lt;&#10;(x) In front of eye piece&#10;( ) At the centre of the telescope&#10;( ) In the objective glass&#10;( ) At the optical centre of eye piece&#10;( ) Anywhere between objective and eye piece&#10;&#10;&gt;&gt;Q6. Which one of the following may be termed as instrumental error in levelling&lt;&lt;&#10;( ) Error due to sluggish bubble&#10;( ) Error due to imperfect adjustment&#10;( ) Error due to movement of objective slide&#10;( ) Error due to defective joint&#10;(x) All of the above&#10;&#10;&gt;&gt;Q7. The angle of field of the telescope&lt;&lt;&#10;( ) Increases as the magnifying power increase&#10;( ) Increases as the distance between eye piece and object increases&#10;(x) Increases as the size of the eye piece increases&#10;( ) Depends in the size of the object glass&#10;&#10;&gt;&gt;Q8. A fixed point of reference of known elevation is known as&lt;&lt;&#10;(x) Bench Mark&#10;( ) Datum&#10;( ) Change point &#10;( )Station point&#10;&#10;&gt;&gt;Q9. The levelling of instrument is done so that&lt;&lt;&#10;(x) Vertical axis is truly vertical&#10;( ) Line of sight is truly horizontal&#10;( ) Optical axis is truly horizontal&#10;( ) Effect of curvature of earth is nullified&#10;&#10;&gt;&gt;Q10. When the bubble of the level tube of a level, is central&lt;&lt;&#10;(x) Line of sight is horizontal&#10;( ) axis of the telescope is horizontal&#10;( ) line of collimation is horizontal&#9;&#10;( ) geometrical axis of the telescope is horizontal&#10;&#10;&gt;&gt;Q11. While viewing through a level telescope and moving the eye slightly, a relative movement occurs between the image of the levelling staff and the cross hairs. The instrument is&lt;&lt;&#10;(x) correctly focussed&#10;( ) not correctly focused&#10;( ) said to have parallex&#10;( ) free from parallex">
+<p>Q1. The accuracy depends upon?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q1. The accuracy depends upon?" type="MultipleChoice">
+    <choice correct="false">Precise instruments</choice>
+    <choice correct="false">Precise methods</choice>
+    <choice correct="false">Good planning</choice>
+    <choice correct="true">All of the above</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q2. In a 5 m telescopic staff, the length of lower box is</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q2. In a 5 m telescopic staff, the length of lower box is" type="MultipleChoice">
+    <choice correct="false">1 meter</choice>
+    <choice correct="false">1.5 meter</choice>
+    <choice correct="false">1.73 meter</choice>
+    <choice correct="false">1.8 meter</choice>
+    <choice correct="true">2.0 meter</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q3. The cross hair is made of</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q3. The cross hair is made of" type="MultipleChoice">
+    <choice correct="false">Threads from the cocoon of the brown spider</choice>
+    <choice correct="false">Fine platinum wire</choice>
+    <choice correct="false">Filaments of silk</choice>
+    <choice correct="false">Etching on glass</choice>
+    <choice correct="true">Any of above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q4. The magnification of a telescope depends upon</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q4. The magnification of a telescope depends upon" type="MultipleChoice">
+    <choice correct="false">Focal length of objective lens</choice>
+    <choice correct="false">Focal length of eye-piece</choice>
+    <choice correct="true">Ratio of fical length of objective lens/focal length of eye piece</choice>
+    <choice correct="false">Sum of focal length of objective lens and focal length of eye piece</choice>
+    <choice correct="false">(1/focal length of objective lens)+(1/focal length of eye piece)</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q5. The cross-hair in a telescope are fitted</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q5. The cross-hair in a telescope are fitted" type="MultipleChoice">
+    <choice correct="true">In front of eye piece</choice>
+    <choice correct="false">At the centre of the telescope</choice>
+    <choice correct="false">In the objective glass</choice>
+    <choice correct="false">At the optical centre of eye piece</choice>
+    <choice correct="false">Anywhere between objective and eye piece</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q6. Which one of the following may be termed as instrumental error in levelling</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q6. Which one of the following may be termed as instrumental error in levelling" type="MultipleChoice">
+    <choice correct="false">Error due to sluggish bubble</choice>
+    <choice correct="false">Error due to imperfect adjustment</choice>
+    <choice correct="false">Error due to movement of objective slide</choice>
+    <choice correct="false">Error due to defective joint</choice>
+    <choice correct="true">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q7. The angle of field of the telescope</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q7. The angle of field of the telescope" type="MultipleChoice">
+    <choice correct="false">Increases as the magnifying power increase</choice>
+    <choice correct="false">Increases as the distance between eye piece and object increases</choice>
+    <choice correct="true">Increases as the size of the eye piece increases</choice>
+    <choice correct="false">Depends in the size of the object glass</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q8. A fixed point of reference of known elevation is known as</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q8. A fixed point of reference of known elevation is known as" type="MultipleChoice">
+    <choice correct="true">Bench Mark</choice>
+    <choice correct="false">Datum</choice>
+    <choice correct="false">Change point</choice>
+    <choice correct="false">Station point</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q9. The levelling of instrument is done so that</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q9. The levelling of instrument is done so that" type="MultipleChoice">
+    <choice correct="true">Vertical axis is truly vertical</choice>
+    <choice correct="false">Line of sight is truly horizontal</choice>
+    <choice correct="false">Optical axis is truly horizontal</choice>
+    <choice correct="false">Effect of curvature of earth is nullified</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q10. When the bubble of the level tube of a level, is central</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q10. When the bubble of the level tube of a level, is central" type="MultipleChoice">
+    <choice correct="true">Line of sight is horizontal</choice>
+    <choice correct="false">axis of the telescope is horizontal</choice>
+    <choice correct="false">line of collimation is horizontal</choice>
+    <choice correct="false">geometrical axis of the telescope is horizontal</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q11. While viewing through a level telescope and moving the eye slightly, a relative movement occurs between the image of the levelling staff and the cross hairs. The instrument is</p>
+<multiplechoiceresponse>
+  <choicegroup label="Q11. While viewing through a level telescope and moving the eye slightly, a relative movement occurs between the image of the levelling staff and the cross hairs. The instrument is" type="MultipleChoice">
+    <choice correct="true">correctly focussed</choice>
+    <choice correct="false">not correctly focused</choice>
+    <choice correct="false">said to have parallex</choice>
+    <choice correct="false">free from parallex</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
