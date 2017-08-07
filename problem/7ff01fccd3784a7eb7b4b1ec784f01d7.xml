@@ -1,23 +1,20 @@
 <problem display_name="Multiple Choice" markdown="Q1. A fixed point of reference of known elevation is known as&#10;(x)&#9;&#9;Bench mark&#9;&#10;( )&#9;&#9;Datum&#10;( )&#9;&#9;Change point&#9;&#10;( )&#9;&#9;Station point&#10;Q2. Bench mark is established by&#10;( )&#9;&#9;spirit levelling&#9;&#10;( )&#9;&#9;hypsometry&#10;(x)&#9;&#9;trigonometrical levelling&#9;&#10;( )&#9;&#9;barometric levelling&#10;">
-<p>Q1. A fixed point of reference of known elevation is known as</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Bench mark</choice>
-    <choice correct="false">Datum</choice>
-    <choice correct="false">Change point</choice>
-    <choice correct="false">Station point</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q2. Bench mark is established by</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">spirit levelling</choice>
-    <choice correct="false">hypsometry</choice>
-    <choice correct="true">trigonometrical levelling</choice>
-    <choice correct="false">barometric levelling</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Q1. A fixed point of reference of known elevation is known as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Bench mark</choice>
+      <choice correct="false">Datum</choice>
+      <choice correct="false">Change point</choice>
+      <choice correct="false">Station point</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q2. Bench mark is established by</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">spirit levelling</choice>
+      <choice correct="false">hypsometry</choice>
+      <choice correct="true">trigonometrical levelling</choice>
+      <choice correct="false">barometric levelling</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

@@ -1,156 +1,141 @@
 <problem display_name="Multiple Choice" markdown="Q1. A cloth rarely used for making accurate measurements, because&#10;( )&#9;&#9;It is easily affected by moister and dampness&#9;&#10;( )&#9;&#9;Its length gets altered by stretching&#10;( )&#9;&#9;It is likely to twist and tangle&#9;&#10;( )&#9;&#9;It is not strong&#10;(x)&#9;&#9;All of the above&#9; &#9; &#9; &#10;Q2. A symbol shown in Fig. 15.12, indicates&#10;(x)&#9;&#9;Barbed wire&#9;&#10;( )&#9;&#9;Pipe line&#10;( )&#9;&#9;Rail line&#9;&#10;( )&#9;&#9;Stone fences&#10;( )&#9;&#9;Power line&#9; &#9; &#9; &#10;Q3. A symbol, shown in Fig. 15.13, indicates&#10;( )&#9;&#9;Power line&#9;&#10;(x)&#9;&#9;Telephone line&#10;( )&#9;&#9;Fenced road&#9;&#10;( )&#9;&#9;Barbed wire&#10;( )&#9;&#9;Pipe railing&#9; &#9; &#9; &#10;Q4. A symbol, shown in Fig. 15.14, indicates&#10;( )&#9;&#9;National highway&#9;&#10;( )&#9;&#9;Bridge on the road&#10;( )&#9;&#9;Tunnel&#9;&#10;( )&#9;&#9;Single railway line&#10;(x)&#9;&#9;Double railway line&#9; &#9; &#9; &#10;Q5. A symbol, shown in Fig. 15.15, indicates&#10;( )&#9;&#9;Chain line&#9;&#10;( )&#9;&#9;Tie line&#10;(x)&#9;&#9;Wire fencing&#9;&#10;( )&#9;&#9;Pipe railing&#10;( )&#9;&#9;Power line&#9; &#9; &#9; &#10;Q6. A symbol, shown in Fig. 15.16, indicates&#10;(x)&#9;&#9;Power line&#9;&#10;( )&#9;&#9;Pipe Railing&#10;( )&#9;&#9;Street lights&#9;&#10;( )&#9;&#9;Sewages line&#10;( )&#9;&#9;Underground cables&#9; &#9; &#9; &#10;Q7. Fig. 15.17 represents the symbol for&#10;( )&#9;&#9;Uneven land&#9;&#10;(x)&#9;&#9;Cultivated land&#10;( )&#9;&#9;marsh&#9;&#10;( )&#9;&#9;Rough pastures&#10;( )&#9;&#9;Hilly areas&#9; &#9; &#9; &#10;Q8. Fig. 15.18 indicates&#10;( )&#9;&#9;Bridge&#9;&#10;( )&#9;&#9;Culvert&#10;(x)&#9;&#9;Tunnel&#9;&#10;( )&#9;&#9;Canal lock&#10;( )&#9;&#9;Fenced road&#9; &#9; &#9; &#10;Q9. Fig. 15.19 represents&#10;(x)&#9;&#9;Canal lock&#9;&#10;( )&#9;&#9;Fairy&#10;( )&#9;&#9;Bridge&#9;&#10;( )&#9;&#9;Bridge with fencing&#10;( )&#9;&#9;Railway line&#9; &#9; &#9; &#10;Q10. Fig. 15.20 represents&#10;(x)&#9;&#9;Rough pastures&#9;&#10;( )&#9;&#9;Marsh&#10;( )&#9;&#9;Evergreen trees&#9;&#10;( )&#9;&#9;Cultivated land&#10;( )&#9;&#9;Decidous trees&#9; &#9; &#9; &#10;Q11. Fig. 15.21 is the indication of&#10;( )&#9;&#9;Historical place&#9;&#10;( )&#9;&#9;Water tank&#10;(x)&#9;&#9;Temple&#9;&#10;( )&#9;&#9;Residential house&#10;( )&#9;&#9;Fort&#9; &#9; &#9; &#10;Q12. In plane table survey the method used for locating details is&#10;( )&#9;&#9;Traversing&#9;&#10;( )&#9;&#9;Resection&#10;( )&#9;&#9;Radiation&#9;&#10;( )&#9;&#9;Intersection&#10;(x)&#9;&#9;(A) or (B) above&#9; &#9; &#9; &#10;Q13. The process of putting the plane table into some fixed position so that a line representing a certain direction on the plane is parallel to that direction in the field is known as&#10;(x)&#9;&#9;Orientation&#9;&#10;( )&#9;&#9;Resection&#10;( )&#9;&#9;Intersection&#9;&#10;( )&#9;&#9;Levelling&#10;( )&#9;&#9;Centring&#9; &#9; &#9; &#10;Q14. The first, second and third temporary adjustments to be made in plane table surveying are respectively&#10;(x)&#9;&#9;levelling, centering, orientation&#9;&#10;( )&#9;&#9;centering, levelling, orientation&#10;( )&#9;&#9;orientation, centering, levelling&#9;&#10;( )&#9;&#9;orientation, levelling, centering&#10;&#10;">
-<p>Q1. A cloth rarely used for making accurate measurements, because</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">It is easily affected by moister and dampness</choice>
-    <choice correct="false">Its length gets altered by stretching</choice>
-    <choice correct="false">It is likely to twist and tangle</choice>
-    <choice correct="false">It is not strong</choice>
-    <choice correct="true">All of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q2. A symbol shown in Fig. 15.12, indicates</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Barbed wire</choice>
-    <choice correct="false">Pipe line</choice>
-    <choice correct="false">Rail line</choice>
-    <choice correct="false">Stone fences</choice>
-    <choice correct="false">Power line</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q3. A symbol, shown in Fig. 15.13, indicates</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Power line</choice>
-    <choice correct="true">Telephone line</choice>
-    <choice correct="false">Fenced road</choice>
-    <choice correct="false">Barbed wire</choice>
-    <choice correct="false">Pipe railing</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q4. A symbol, shown in Fig. 15.14, indicates</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">National highway</choice>
-    <choice correct="false">Bridge on the road</choice>
-    <choice correct="false">Tunnel</choice>
-    <choice correct="false">Single railway line</choice>
-    <choice correct="true">Double railway line</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q5. A symbol, shown in Fig. 15.15, indicates</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Chain line</choice>
-    <choice correct="false">Tie line</choice>
-    <choice correct="true">Wire fencing</choice>
-    <choice correct="false">Pipe railing</choice>
-    <choice correct="false">Power line</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q6. A symbol, shown in Fig. 15.16, indicates</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Power line</choice>
-    <choice correct="false">Pipe Railing</choice>
-    <choice correct="false">Street lights</choice>
-    <choice correct="false">Sewages line</choice>
-    <choice correct="false">Underground cables</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q7. Fig. 15.17 represents the symbol for</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Uneven land</choice>
-    <choice correct="true">Cultivated land</choice>
-    <choice correct="false">marsh</choice>
-    <choice correct="false">Rough pastures</choice>
-    <choice correct="false">Hilly areas</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q8. Fig. 15.18 indicates</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Bridge</choice>
-    <choice correct="false">Culvert</choice>
-    <choice correct="true">Tunnel</choice>
-    <choice correct="false">Canal lock</choice>
-    <choice correct="false">Fenced road</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q9. Fig. 15.19 represents</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Canal lock</choice>
-    <choice correct="false">Fairy</choice>
-    <choice correct="false">Bridge</choice>
-    <choice correct="false">Bridge with fencing</choice>
-    <choice correct="false">Railway line</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q10. Fig. 15.20 represents</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Rough pastures</choice>
-    <choice correct="false">Marsh</choice>
-    <choice correct="false">Evergreen trees</choice>
-    <choice correct="false">Cultivated land</choice>
-    <choice correct="false">Decidous trees</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q11. Fig. 15.21 is the indication of</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Historical place</choice>
-    <choice correct="false">Water tank</choice>
-    <choice correct="true">Temple</choice>
-    <choice correct="false">Residential house</choice>
-    <choice correct="false">Fort</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q12. In plane table survey the method used for locating details is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Traversing</choice>
-    <choice correct="false">Resection</choice>
-    <choice correct="false">Radiation</choice>
-    <choice correct="false">Intersection</choice>
-    <choice correct="true">(A) or (B) above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q13. The process of putting the plane table into some fixed position so that a line representing a certain direction on the plane is parallel to that direction in the field is known as</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Orientation</choice>
-    <choice correct="false">Resection</choice>
-    <choice correct="false">Intersection</choice>
-    <choice correct="false">Levelling</choice>
-    <choice correct="false">Centring</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q14. The first, second and third temporary adjustments to be made in plane table surveying are respectively</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">levelling, centering, orientation</choice>
-    <choice correct="false">centering, levelling, orientation</choice>
-    <choice correct="false">orientation, centering, levelling</choice>
-    <choice correct="false">orientation, levelling, centering</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Q1. A cloth rarely used for making accurate measurements, because</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">It is easily affected by moister and dampness</choice>
+      <choice correct="false">Its length gets altered by stretching</choice>
+      <choice correct="false">It is likely to twist and tangle</choice>
+      <choice correct="false">It is not strong</choice>
+      <choice correct="true">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q2. A symbol shown in Fig. 15.12, indicates</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Barbed wire</choice>
+      <choice correct="false">Pipe line</choice>
+      <choice correct="false">Rail line</choice>
+      <choice correct="false">Stone fences</choice>
+      <choice correct="false">Power line</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q3. A symbol, shown in Fig. 15.13, indicates</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Power line</choice>
+      <choice correct="true">Telephone line</choice>
+      <choice correct="false">Fenced road</choice>
+      <choice correct="false">Barbed wire</choice>
+      <choice correct="false">Pipe railing</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q4. A symbol, shown in Fig. 15.14, indicates</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">National highway</choice>
+      <choice correct="false">Bridge on the road</choice>
+      <choice correct="false">Tunnel</choice>
+      <choice correct="false">Single railway line</choice>
+      <choice correct="true">Double railway line</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q5. A symbol, shown in Fig. 15.15, indicates</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Chain line</choice>
+      <choice correct="false">Tie line</choice>
+      <choice correct="true">Wire fencing</choice>
+      <choice correct="false">Pipe railing</choice>
+      <choice correct="false">Power line</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q6. A symbol, shown in Fig. 15.16, indicates</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Power line</choice>
+      <choice correct="false">Pipe Railing</choice>
+      <choice correct="false">Street lights</choice>
+      <choice correct="false">Sewages line</choice>
+      <choice correct="false">Underground cables</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q7. Fig. 15.17 represents the symbol for</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Uneven land</choice>
+      <choice correct="true">Cultivated land</choice>
+      <choice correct="false">marsh</choice>
+      <choice correct="false">Rough pastures</choice>
+      <choice correct="false">Hilly areas</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q8. Fig. 15.18 indicates</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Bridge</choice>
+      <choice correct="false">Culvert</choice>
+      <choice correct="true">Tunnel</choice>
+      <choice correct="false">Canal lock</choice>
+      <choice correct="false">Fenced road</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q9. Fig. 15.19 represents</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Canal lock</choice>
+      <choice correct="false">Fairy</choice>
+      <choice correct="false">Bridge</choice>
+      <choice correct="false">Bridge with fencing</choice>
+      <choice correct="false">Railway line</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q10. Fig. 15.20 represents</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Rough pastures</choice>
+      <choice correct="false">Marsh</choice>
+      <choice correct="false">Evergreen trees</choice>
+      <choice correct="false">Cultivated land</choice>
+      <choice correct="false">Decidous trees</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q11. Fig. 15.21 is the indication of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Historical place</choice>
+      <choice correct="false">Water tank</choice>
+      <choice correct="true">Temple</choice>
+      <choice correct="false">Residential house</choice>
+      <choice correct="false">Fort</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q12. In plane table survey the method used for locating details is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Traversing</choice>
+      <choice correct="false">Resection</choice>
+      <choice correct="false">Radiation</choice>
+      <choice correct="false">Intersection</choice>
+      <choice correct="true">(A) or (B) above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q13. The process of putting the plane table into some fixed position so that a line representing a certain direction on the plane is parallel to that direction in the field is known as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Orientation</choice>
+      <choice correct="false">Resection</choice>
+      <choice correct="false">Intersection</choice>
+      <choice correct="false">Levelling</choice>
+      <choice correct="false">Centring</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q14. The first, second and third temporary adjustments to be made in plane table surveying are respectively</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">levelling, centering, orientation</choice>
+      <choice correct="false">centering, levelling, orientation</choice>
+      <choice correct="false">orientation, centering, levelling</choice>
+      <choice correct="false">orientation, levelling, centering</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

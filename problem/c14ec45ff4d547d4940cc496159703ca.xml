@@ -1,232 +1,210 @@
 <problem display_name="Multiple Choice" markdown="Q1. The suface of zero elevation around the earth , which is slightly irregular and curved , is known as&#10;( )&#9;&#9;mean sea level&#9;&#10;( )&#9;&#9;geoid surface&#10;( )&#9;&#9;level surface&#9;&#10;(x)&#9;&#9;horizontal surface&#10;Q2. A closed contour line with one or more higher altitude contours inside it represents&#10;(x)&#9;&#9;A hill&#9;&#10;( )&#9;&#9;A depression&#10;( )&#9;&#9;A cliff&#9;&#10;( )&#9;&#9;A cave&#10;( )&#9;&#9;A well&#9; &#9; &#9; &#10;Q3. Two contour lines of different elevations can cross each other only in case of&#10;( )&#9;&#9;A well&#9;&#10;( )&#9;&#9;A cliff&#10;( )&#9;&#9;A cave&#9;&#10;( )&#9;&#9;(A) or (B) above&#10;(x)&#9;&#9;(B) or (C) above&#9; &#9; &#9; &#10;Q4. The limit of water level of a skill lake, represents&#10;( )&#9;&#9;level surface&#9;&#10;( )&#9;&#9;a horizontal surface&#10;(x)&#9;&#9;both longitudinal and cross sections are required contour line&#9;&#10;( )&#9;&#9;a concave surface&#10;Q5. A closed contour line with one or more lower value contours inside indicated&#10;(x)&#9;&#9;A depression&#9;&#10;( )&#9;&#9;A hillock&#10;( )&#9;&#9;A cave&#9;&#10;( )&#9;&#9;A cliff&#10;( )&#9;&#9;A ridge&#9; &#9; &#9; &#10;Q6. If the contour lines are equally spaced they indicated&#10;( )&#9;&#9;Steep slope&#9;&#10;( )&#9;&#9;Depression&#10;( )&#9;&#9;Plain ground&#9;&#10;(x)&#9;&#9;Uniform slope&#10;( )&#9;&#9;Valley&#9; &#9; &#9; &#10;Q7. Identify the incorrect statement, if any&#10;( )&#9;&#9;Two contours having the same elevation cannot untie and continue as one line&#9;&#10;( )&#9;&#9;A single contour cannot split into two lines&#10;( )&#9;&#9;A contour line must close upon itself, though not necessarily within the limits of the map&#9;&#10;( )&#9;&#9;Contour lines cross a valley at right angles&#10;(x)&#9;&#9;Contour lines close together indicate gentle slope&#9; &#9; &#9; &#10;Q8. The limit of water level in a still lake represents a&#10;( )&#9;&#9;Contour gradient&#9;&#10;( )&#9;&#9;Level surface&#10;(x)&#9;&#9;Contour line&#9;&#10;( )&#9;&#9;Horizontal surface&#10;( )&#9;&#9;None of the above&#9; &#9; &#9; &#10;Q9. The direction of steepest slope at a point on a contour is&#10;( )&#9;&#9;Along the contour&#9;&#10;( )&#9;&#9;At 45 to contour&#10;(x)&#9;&#9;At 90 to the contour&#9;&#10;( )&#9;&#9;At 180 to the contour&#10;( )&#9;&#9;Parallel to the contour&#9; &#9; &#9; &#10;Q10. Contour maps are used for&#10;( )&#9;&#9;Determination of intervisibility between two points&#9;&#10;( )&#9;&#9;Measurement of drainage areas&#10;( )&#9;&#9;Calculation of reservoir capacity&#9;&#10;( )&#9;&#9;Drawing of sections&#10;(x)&#9;&#9;Any or all of the above&#9; &#9; &#9; &#10;Q11. The constant vertical distance between two adjacent contours of any area is called&#10;( )&#9;&#9;The contour interval&#9;&#10;( )&#9;&#9;The level distance&#10;( )&#9;&#9;The level difference&#9;&#10;( )&#9;&#9;The horizontal interval&#10;(x)&#9;&#9;The contour gradient&#9; &#9; &#9; &#10;Q12. The best method of interpolation of contours in direct method of contouring, is by&#10;( )&#9;&#9;Interpolation&#9;&#10;( )&#9;&#9;Auxiliary contouring&#10;(x)&#9;&#9;Computations&#9;&#10;( )&#9;&#9;Estimation&#10;( )&#9;&#9;All of the above&#9; &#9; &#9; &#10;Q13. The topography of a very flat represents by&#10;( )&#9;&#9;Drawing Contour lines at large intervals&#9;&#10;( )&#9;&#9;Drawing contour lines for very small gradient&#10;( )&#9;&#9;Drawing contour lines for very small intervals&#9;&#10;(x)&#9;&#9;By stipulating spot level with indications&#10;( )&#9;&#9;By giving spot levels at close intervals&#9; &#9; &#9; &#10;Q14. An imaginary line on the ground joining the points of equal elevation, is known as&#10;( )&#9;&#9;Equal elevation line&#9;&#10;( )&#9;&#9;Iso-elevation line&#10;( )&#9;&#9;Constant level line&#9;&#10;(x)&#9;&#9;Contour&#10;( )&#9;&#9;None of the above&#9; &#9; &#9; &#10;Q15. The vertical distance between two consecutive contours is known as&#10;( )&#9;&#9;Superelevation&#9;&#10;( )&#9;&#9;Elevation rise&#10;( )&#9;&#9;Contour elevation&#9;&#10;( )&#9;&#9;Contour factor&#10;(x)&#9;&#9;Contour interval&#9; &#9; &#9; &#10;Q16. Contour lines of different elevations can intersect only in case of&#10;( )&#9;&#9;Valley&#9;&#10;( )&#9;&#9;Ridge&#10;( )&#9;&#9;Mountains&#9;&#10;(x)&#9;&#9;Cave&#10;( )&#9;&#9;Rivers&#9; &#9; &#9; &#10;Q17. Contour lines of different elevation can unite to form one line only in the case of&#10;(x)&#9;&#9;Vertical cliff&#9;&#10;( )&#9;&#9;Cave&#10;( )&#9;&#9;Plane ground&#9;&#10;( )&#9;&#9;valley&#10;( )&#9;&#9;River bed&#9; &#9; &#9; &#10;Q18. Contour lines spaced closely indicate&#10;( )&#9;&#9;Gentle slope&#9;&#10;(x)&#9;&#9;Steep slope&#10;( )&#9;&#9;Plane ground&#9;&#10;( )&#9;&#9;Valley&#10;( )&#9;&#9;Vertical cliff&#9; &#9; &#9; &#10;Q19. A plane surface on a contour map is indicated by&#10;( )&#9;&#9;Far apart lines&#9;&#10;( )&#9;&#9;Close together lines&#10;(x)&#9;&#9;Series of straight, parallel and equal spaced contours&#9;&#10;( )&#9;&#9;Mutually crossing contours&#10;( )&#9;&#9;Closed contour lines&#9; &#9; &#9; &#10;Q20. On a contour map, a hill is usually indicated by&#10;( )&#9;&#9;Closed contour lines&#9;&#10;( )&#9;&#9;Closed contour lines with one or more higher ones inside it&#10;(x)&#9;&#9;Closed contour lines with one or more lower ones inside it&#9;&#10;( )&#9;&#9;Two contour lines of same elevation uniting and continuing as one line&#10;( )&#9;&#9;None of the above&#9; &#9; &#9; &#10;Q21. In case the contour lines are parallel and equidistant for a place, then the place will be&#10;( )&#9;&#9;a plane ground&#9;&#10;(x)&#9;&#9;having uniform slope&#10;( )&#9;&#9;having steep slope&#9;&#10;( )&#9;&#9;having gentle slope&#10;( )&#9;&#9;None of the above">
-<p>Q1. The suface of zero elevation around the earth , which is slightly irregular and curved , is known as</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">mean sea level</choice>
-    <choice correct="false">geoid surface</choice>
-    <choice correct="false">level surface</choice>
-    <choice correct="true">horizontal surface</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q2. A closed contour line with one or more higher altitude contours inside it represents</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">A hill</choice>
-    <choice correct="false">A depression</choice>
-    <choice correct="false">A cliff</choice>
-    <choice correct="false">A cave</choice>
-    <choice correct="false">A well</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q3. Two contour lines of different elevations can cross each other only in case of</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">A well</choice>
-    <choice correct="false">A cliff</choice>
-    <choice correct="false">A cave</choice>
-    <choice correct="false">(A) or (B) above</choice>
-    <choice correct="true">(B) or (C) above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q4. The limit of water level of a skill lake, represents</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">level surface</choice>
-    <choice correct="false">a horizontal surface</choice>
-    <choice correct="true">both longitudinal and cross sections are required contour line</choice>
-    <choice correct="false">a concave surface</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q5. A closed contour line with one or more lower value contours inside indicated</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">A depression</choice>
-    <choice correct="false">A hillock</choice>
-    <choice correct="false">A cave</choice>
-    <choice correct="false">A cliff</choice>
-    <choice correct="false">A ridge</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q6. If the contour lines are equally spaced they indicated</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Steep slope</choice>
-    <choice correct="false">Depression</choice>
-    <choice correct="false">Plain ground</choice>
-    <choice correct="true">Uniform slope</choice>
-    <choice correct="false">Valley</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q7. Identify the incorrect statement, if any</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Two contours having the same elevation cannot untie and continue as one line</choice>
-    <choice correct="false">A single contour cannot split into two lines</choice>
-    <choice correct="false">A contour line must close upon itself, though not necessarily within the limits of the map</choice>
-    <choice correct="false">Contour lines cross a valley at right angles</choice>
-    <choice correct="true">Contour lines close together indicate gentle slope</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q8. The limit of water level in a still lake represents a</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Contour gradient</choice>
-    <choice correct="false">Level surface</choice>
-    <choice correct="true">Contour line</choice>
-    <choice correct="false">Horizontal surface</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q9. The direction of steepest slope at a point on a contour is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Along the contour</choice>
-    <choice correct="false">At 45 to contour</choice>
-    <choice correct="true">At 90 to the contour</choice>
-    <choice correct="false">At 180 to the contour</choice>
-    <choice correct="false">Parallel to the contour</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q10. Contour maps are used for</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Determination of intervisibility between two points</choice>
-    <choice correct="false">Measurement of drainage areas</choice>
-    <choice correct="false">Calculation of reservoir capacity</choice>
-    <choice correct="false">Drawing of sections</choice>
-    <choice correct="true">Any or all of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q11. The constant vertical distance between two adjacent contours of any area is called</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">The contour interval</choice>
-    <choice correct="false">The level distance</choice>
-    <choice correct="false">The level difference</choice>
-    <choice correct="false">The horizontal interval</choice>
-    <choice correct="true">The contour gradient</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q12. The best method of interpolation of contours in direct method of contouring, is by</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Interpolation</choice>
-    <choice correct="false">Auxiliary contouring</choice>
-    <choice correct="true">Computations</choice>
-    <choice correct="false">Estimation</choice>
-    <choice correct="false">All of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q13. The topography of a very flat represents by</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Drawing Contour lines at large intervals</choice>
-    <choice correct="false">Drawing contour lines for very small gradient</choice>
-    <choice correct="false">Drawing contour lines for very small intervals</choice>
-    <choice correct="true">By stipulating spot level with indications</choice>
-    <choice correct="false">By giving spot levels at close intervals</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q14. An imaginary line on the ground joining the points of equal elevation, is known as</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Equal elevation line</choice>
-    <choice correct="false">Iso-elevation line</choice>
-    <choice correct="false">Constant level line</choice>
-    <choice correct="true">Contour</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q15. The vertical distance between two consecutive contours is known as</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Superelevation</choice>
-    <choice correct="false">Elevation rise</choice>
-    <choice correct="false">Contour elevation</choice>
-    <choice correct="false">Contour factor</choice>
-    <choice correct="true">Contour interval</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q16. Contour lines of different elevations can intersect only in case of</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Valley</choice>
-    <choice correct="false">Ridge</choice>
-    <choice correct="false">Mountains</choice>
-    <choice correct="true">Cave</choice>
-    <choice correct="false">Rivers</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q17. Contour lines of different elevation can unite to form one line only in the case of</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Vertical cliff</choice>
-    <choice correct="false">Cave</choice>
-    <choice correct="false">Plane ground</choice>
-    <choice correct="false">valley</choice>
-    <choice correct="false">River bed</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q18. Contour lines spaced closely indicate</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Gentle slope</choice>
-    <choice correct="true">Steep slope</choice>
-    <choice correct="false">Plane ground</choice>
-    <choice correct="false">Valley</choice>
-    <choice correct="false">Vertical cliff</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q19. A plane surface on a contour map is indicated by</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Far apart lines</choice>
-    <choice correct="false">Close together lines</choice>
-    <choice correct="true">Series of straight, parallel and equal spaced contours</choice>
-    <choice correct="false">Mutually crossing contours</choice>
-    <choice correct="false">Closed contour lines</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q20. On a contour map, a hill is usually indicated by</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Closed contour lines</choice>
-    <choice correct="false">Closed contour lines with one or more higher ones inside it</choice>
-    <choice correct="true">Closed contour lines with one or more lower ones inside it</choice>
-    <choice correct="false">Two contour lines of same elevation uniting and continuing as one line</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q21. In case the contour lines are parallel and equidistant for a place, then the place will be</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">a plane ground</choice>
-    <choice correct="true">having uniform slope</choice>
-    <choice correct="false">having steep slope</choice>
-    <choice correct="false">having gentle slope</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Q1. The suface of zero elevation around the earth , which is slightly irregular and curved , is known as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">mean sea level</choice>
+      <choice correct="false">geoid surface</choice>
+      <choice correct="false">level surface</choice>
+      <choice correct="true">horizontal surface</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q2. A closed contour line with one or more higher altitude contours inside it represents</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">A hill</choice>
+      <choice correct="false">A depression</choice>
+      <choice correct="false">A cliff</choice>
+      <choice correct="false">A cave</choice>
+      <choice correct="false">A well</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q3. Two contour lines of different elevations can cross each other only in case of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">A well</choice>
+      <choice correct="false">A cliff</choice>
+      <choice correct="false">A cave</choice>
+      <choice correct="false">(A) or (B) above</choice>
+      <choice correct="true">(B) or (C) above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q4. The limit of water level of a skill lake, represents</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">level surface</choice>
+      <choice correct="false">a horizontal surface</choice>
+      <choice correct="true">both longitudinal and cross sections are required contour line</choice>
+      <choice correct="false">a concave surface</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q5. A closed contour line with one or more lower value contours inside indicated</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">A depression</choice>
+      <choice correct="false">A hillock</choice>
+      <choice correct="false">A cave</choice>
+      <choice correct="false">A cliff</choice>
+      <choice correct="false">A ridge</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q6. If the contour lines are equally spaced they indicated</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Steep slope</choice>
+      <choice correct="false">Depression</choice>
+      <choice correct="false">Plain ground</choice>
+      <choice correct="true">Uniform slope</choice>
+      <choice correct="false">Valley</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q7. Identify the incorrect statement, if any</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Two contours having the same elevation cannot untie and continue as one line</choice>
+      <choice correct="false">A single contour cannot split into two lines</choice>
+      <choice correct="false">A contour line must close upon itself, though not necessarily within the limits of the map</choice>
+      <choice correct="false">Contour lines cross a valley at right angles</choice>
+      <choice correct="true">Contour lines close together indicate gentle slope</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q8. The limit of water level in a still lake represents a</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Contour gradient</choice>
+      <choice correct="false">Level surface</choice>
+      <choice correct="true">Contour line</choice>
+      <choice correct="false">Horizontal surface</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q9. The direction of steepest slope at a point on a contour is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Along the contour</choice>
+      <choice correct="false">At 45 to contour</choice>
+      <choice correct="true">At 90 to the contour</choice>
+      <choice correct="false">At 180 to the contour</choice>
+      <choice correct="false">Parallel to the contour</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q10. Contour maps are used for</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Determination of intervisibility between two points</choice>
+      <choice correct="false">Measurement of drainage areas</choice>
+      <choice correct="false">Calculation of reservoir capacity</choice>
+      <choice correct="false">Drawing of sections</choice>
+      <choice correct="true">Any or all of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q11. The constant vertical distance between two adjacent contours of any area is called</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">The contour interval</choice>
+      <choice correct="false">The level distance</choice>
+      <choice correct="false">The level difference</choice>
+      <choice correct="false">The horizontal interval</choice>
+      <choice correct="true">The contour gradient</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q12. The best method of interpolation of contours in direct method of contouring, is by</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Interpolation</choice>
+      <choice correct="false">Auxiliary contouring</choice>
+      <choice correct="true">Computations</choice>
+      <choice correct="false">Estimation</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q13. The topography of a very flat represents by</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Drawing Contour lines at large intervals</choice>
+      <choice correct="false">Drawing contour lines for very small gradient</choice>
+      <choice correct="false">Drawing contour lines for very small intervals</choice>
+      <choice correct="true">By stipulating spot level with indications</choice>
+      <choice correct="false">By giving spot levels at close intervals</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q14. An imaginary line on the ground joining the points of equal elevation, is known as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Equal elevation line</choice>
+      <choice correct="false">Iso-elevation line</choice>
+      <choice correct="false">Constant level line</choice>
+      <choice correct="true">Contour</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q15. The vertical distance between two consecutive contours is known as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Superelevation</choice>
+      <choice correct="false">Elevation rise</choice>
+      <choice correct="false">Contour elevation</choice>
+      <choice correct="false">Contour factor</choice>
+      <choice correct="true">Contour interval</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q16. Contour lines of different elevations can intersect only in case of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Valley</choice>
+      <choice correct="false">Ridge</choice>
+      <choice correct="false">Mountains</choice>
+      <choice correct="true">Cave</choice>
+      <choice correct="false">Rivers</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q17. Contour lines of different elevation can unite to form one line only in the case of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Vertical cliff</choice>
+      <choice correct="false">Cave</choice>
+      <choice correct="false">Plane ground</choice>
+      <choice correct="false">valley</choice>
+      <choice correct="false">River bed</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q18. Contour lines spaced closely indicate</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Gentle slope</choice>
+      <choice correct="true">Steep slope</choice>
+      <choice correct="false">Plane ground</choice>
+      <choice correct="false">Valley</choice>
+      <choice correct="false">Vertical cliff</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q19. A plane surface on a contour map is indicated by</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Far apart lines</choice>
+      <choice correct="false">Close together lines</choice>
+      <choice correct="true">Series of straight, parallel and equal spaced contours</choice>
+      <choice correct="false">Mutually crossing contours</choice>
+      <choice correct="false">Closed contour lines</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q20. On a contour map, a hill is usually indicated by</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Closed contour lines</choice>
+      <choice correct="false">Closed contour lines with one or more higher ones inside it</choice>
+      <choice correct="true">Closed contour lines with one or more lower ones inside it</choice>
+      <choice correct="false">Two contour lines of same elevation uniting and continuing as one line</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q21. In case the contour lines are parallel and equidistant for a place, then the place will be</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">a plane ground</choice>
+      <choice correct="true">having uniform slope</choice>
+      <choice correct="false">having steep slope</choice>
+      <choice correct="false">having gentle slope</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
